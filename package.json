@@ -1,0 +1,22 @@
+{
+  "name": "crud-electron-mongodb",
+  "version": "1.0.0",
+  "description": "this is the electron crud with the mongodb",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "npx electronmon ."
+  },
+  "keywords": [
+    "electronjs",
+    "javascript",
+    "mongodb"
+  ],
+  "author": "Danilo Lora Seguro",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^6.10.0"
+  },
+  "devDependencies": {
+    "electron": "^23.1.1"
+  }
+}
